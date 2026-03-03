@@ -25,11 +25,10 @@ This project is my **IronViz 2026 Qualifier submission**, exploring the full lif
 
 ```
 Tea-Journey-Around-the-World/
-│
-├── 📁 Dataets/                          # Raw & cleaned datasets used for analysis
-├── 📁 Icons & Images/                   # Custom icons and images used in the dashboard
-├── 📁 SQL queries/                      # All SQL scripts for data cleaning & KPI calculation
-├── 📊 Tea's Journey Around the World.twbx   # Tableau packaged workbook (full dashboard)
+├── 📁 data/                  ← raw & cleaned datasets
+├── 📁 sql/                   ← all SQL scripts
+├── 📁 dashboard/             ← the .twbx Tableau file
+├── 📁 assets/                ← icons & images
 └── 📄 README.md
 ```
 
